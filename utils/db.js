@@ -15,3 +15,4 @@ db.connect(function(erro) {
     });
 global.db = db;
 module.exports = db;
+
